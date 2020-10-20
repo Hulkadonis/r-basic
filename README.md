@@ -18,9 +18,9 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 3. Estructuras de datos
 4. Introducción a la representación gráfica
 5. Data frames
-6. Estadística descriptiva con datos cualitativos
-7. Estadística descriptiva con datos ordinales
-8. Estadística descriptiva con datos cuantitativos
-9. Estadística descriptiva con datos cualitativos agrupados
-10. Introducción a la regresión lineal
+6. Estadística descriptiva con datos cualitativos.
+7. Estadística descriptiva con datos ordinales.
+8. Estadística descriptiva con datos cuantitativos.
+9. Estadística descriptiva con datos cualitativos agrupados.
+10. Introducción a la regresión lineal.
 11. Introducción a distribuciones de probabilidad.
