@@ -2,7 +2,9 @@
 title: "Ejercicios sobre LaTeX, R y Markdown"
 author: "Juan Gabriel Gomila & María Santos"
 date: "30/12/2018"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
