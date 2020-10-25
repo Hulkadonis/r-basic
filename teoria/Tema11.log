@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.21)  25 OCT 2020 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.21)  25 OCT 2020 12:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Tema1.tex
-(./Tema1.tex
+**Tema11.tex
+(./Tema11.tex
 LaTeX2e <2020-10-01> patch level 1
 L3 programming layer <2020-10-05> xparse <2020-03-03> (c:/Users/Hulka/AppData/R
 oaming/TinyTeX/texmf-dist/tex/latex/beamer/beamer.cls
@@ -827,63 +827,45 @@ Package: inputenc 2020/08/01 v1.3d Input encoding file
 y
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.
-sty
-Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count327
-\FV@InFile=\read3
-\FV@TabBox=\box76
-\c@FancyVerbLine=\count328
-\FV@StepNumber=\count329
-\FV@OutFile=\write5
-) (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.st
-y
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip66
-\fb@frw=\dimen285
-\fb@frh=\dimen286
-\FrameRule=\dimen287
-\FrameSep=\dimen288
-)
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.st
 y
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip67
-\LTright=\skip68
-\LTpre=\skip69
-\LTpost=\skip70
-\LTchunksize=\count330
-\LTcapwidth=\dimen289
-\LT@head=\box77
-\LT@firsthead=\box78
-\LT@foot=\box79
-\LT@lastfoot=\box80
-\LT@cols=\count331
-\LT@rows=\count332
-\c@LT@tables=\count333
-\c@LT@chunks=\count334
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count327
+\LTcapwidth=\dimen285
+\LT@head=\box76
+\LT@firsthead=\box77
+\LT@foot=\box78
+\LT@lastfoot=\box79
+\LT@cols=\count328
+\LT@rows=\count329
+\c@LT@tables=\count330
+\c@LT@chunks=\count331
 \LT@p@ftn=\toks46
 )
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.
 sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen290
-\lightrulewidth=\dimen291
-\cmidrulewidth=\dimen292
-\belowrulesep=\dimen293
-\belowbottomsep=\dimen294
-\aboverulesep=\dimen295
-\abovetopsep=\dimen296
-\cmidrulesep=\dimen297
-\cmidrulekern=\dimen298
-\defaultaddspace=\dimen299
-\@cmidla=\count335
-\@cmidlb=\count336
-\@aboverulesep=\dimen300
-\@belowrulesep=\dimen301
-\@thisruleclass=\count337
-\@lastruleclass=\count338
-\@thisrulewidth=\dimen302
+\heavyrulewidth=\dimen286
+\lightrulewidth=\dimen287
+\cmidrulewidth=\dimen288
+\belowrulesep=\dimen289
+\belowbottomsep=\dimen290
+\aboverulesep=\dimen291
+\abovetopsep=\dimen292
+\cmidrulesep=\dimen293
+\cmidrulekern=\dimen294
+\defaultaddspace=\dimen295
+\@cmidla=\count332
+\@cmidlb=\count333
+\@aboverulesep=\dimen296
+\@belowrulesep=\dimen297
+\@thisruleclass=\count334
+\@lastruleclass=\count335
+\@thisrulewidth=\dimen298
 )
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption.st
 y
@@ -892,13 +874,13 @@ Package: caption 2020/09/12 v3.5b Customizing captions (AR)
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption3.s
 ty
 Package: caption3 2020/09/17 v2.1b caption3 kernel (AR)
-\captionmargin=\dimen303
-\captionmargin@=\dimen304
-\captionwidth=\dimen305
-\caption@tempdima=\dimen306
-\caption@indent=\dimen307
-\caption@parindent=\dimen308
-\caption@hangindent=\dimen309
+\captionmargin=\dimen299
+\captionmargin@=\dimen300
+\captionwidth=\dimen301
+\caption@tempdima=\dimen302
+\caption@indent=\dimen303
+\caption@parindent=\dimen304
+\caption@hangindent=\dimen305
 Package caption Info: beamer document class detected.
 
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption-be
@@ -906,8 +888,8 @@ amer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
  beamer document classes (AR)
 ))
-\c@caption@flags=\count339
-\c@continuedfloat=\count340
+\c@caption@flags=\count336
+\c@continuedfloat=\count337
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
@@ -920,30 +902,30 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count341
-\l__pdf_internal_box=\box81
+\l__kernel_color_stack_int=\count338
+\l__pdf_internal_box=\box80
 )
-No file Tema1.aux.
-\openout1 = `Tema1.aux'.
+No file Tema11.aux.
+\openout1 = `Tema11.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 152.
-LaTeX Font Info:    ... okay on input line 152.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 112.
+LaTeX Font Info:    ... okay on input line 112.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -990,7 +972,7 @@ df-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 152.
+Package hyperref Info: Link coloring OFF on input line 112.
 
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
 ty
@@ -1004,60 +986,60 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count342
+\c@section@level=\count339
 )
-LaTeX Info: Redefining \ref on input line 152.
-LaTeX Info: Redefining \pageref on input line 152.
-LaTeX Info: Redefining \nameref on input line 152.
-\@outlinefile=\write6
-\openout6 = `Tema1.out'.
+LaTeX Info: Redefining \ref on input line 112.
+LaTeX Info: Redefining \pageref on input line 112.
+LaTeX Info: Redefining \nameref on input line 112.
+\@outlinefile=\write5
+\openout5 = `Tema11.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 152.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 152.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 152.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 152.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 112.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 152.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 152.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 112.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 152.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 152.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 152.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 112.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 152.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 152.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 152.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 112.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 152.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 152.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 152.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 112.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 152.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 152.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 152.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 112.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 152.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 152.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 152.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 152.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 152.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 112.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 152.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 112.
 
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/translator/transla
 tor-basic-dictionary-English.dict
@@ -1085,222 +1067,189 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-No file Tema1.nav.
+No file Tema11.nav.
 [1
 
 {c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map}] [2
 
 ]
-<Imgs/RLogo.jpg, id=28, 142.5325pt x 142.5325pt>
-File: Imgs/RLogo.jpg Graphic file (type jpg)
-<use Imgs/RLogo.jpg>
-Package pdftex.def Info: Imgs/RLogo.jpg  used on input line 178.
-(pdftex.def)             Requested size: 142.53214pt x 142.53214pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-178.
+137.
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-78.
+37.
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-178.
+137.
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-178.
+137.
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 178.
+(Font)              <10.95> on input line 137.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 178.
+(Font)              <8> on input line 137.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 178.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 178
+(Font)              <6> on input line 137.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 137
 .
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 178
+LaTeX Font Info:    Trying to load font information for U+msb on input line 137
 .
 (c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 178.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 137.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 178.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 137.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 178.
-
-Overfull \vbox (0.58818pt too high) detected at line 178
- []
-
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 137.
 [3
 
- <./Imgs/Rlogo.jpg>]
-<Imgs/InterfazRStudio.png, id=37, 603.25375pt x 370.38374pt>
-File: Imgs/InterfazRStudio.png Graphic file (type png)
-<use Imgs/InterfazRStudio.png>
-Package pdftex.def Info: Imgs/InterfazRStudio.png  used on input line 188.
-(pdftex.def)             Requested size: 307.28714pt x 188.66713pt.
-[4
+] [4
 
- <./Imgs/InterfazRStudio.png>]
-\openout4 = `Tema1.vrb'.
-
-(./Tema1.vrb
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-2.
-(c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) [5
+] [5
 
 ]
-\openout4 = `Tema1.vrb'.
+<Imgs/dado.png, id=53, 255.95625pt x 255.95625pt>
+File: Imgs/dado.png Graphic file (type png)
+<use Imgs/dado.png>
+Package pdftex.def Info: Imgs/dado.png  used on input line 205.
+(pdftex.def)             Requested size: 255.95561pt x 255.95561pt.
 
-(./Tema1.vrb
-<Imgs/RSLogo.jpg, id=56, 225.84375pt x 225.84375pt>
-File: Imgs/RSLogo.jpg Graphic file (type jpg)
-<use Imgs/RSLogo.jpg>
-Package pdftex.def Info: Imgs/RSLogo.jpg  used on input line 16.
-(pdftex.def)             Requested size: 225.85696pt x 225.85696pt.
-)
-Overfull \vbox (56.713pt too high) detected at line 231
+Overfull \vbox (139.25853pt too high) detected at line 205
  []
 
 [6
 
- <./Imgs/RSLogo.jpg>]
-<Imgs/Disquete.png, id=63, 27.10126pt x 23.08624pt>
-File: Imgs/Disquete.png Graphic file (type png)
-<use Imgs/Disquete.png>
-Package pdftex.def Info: Imgs/Disquete.png  used on input line 244.
-(pdftex.def)             Requested size: 27.10118pt x 23.08617pt.
-<Imgs/Carpeta.png, id=64, 28.105pt x 22.0825pt>
-File: Imgs/Carpeta.png Graphic file (type png)
-<use Imgs/Carpeta.png>
-Package pdftex.def Info: Imgs/Carpeta.png  used on input line 244.
-(pdftex.def)             Requested size: 28.10535pt x 22.08276pt.
-<Imgs/RScript.png, id=65, 25.09375pt x 23.08624pt>
-File: Imgs/RScript.png Graphic file (type png)
-<use Imgs/RScript.png>
-Package pdftex.def Info: Imgs/RScript.png  used on input line 244.
-(pdftex.def)             Requested size: 25.09367pt x 23.08617pt.
-<Imgs/RNotebook.png, id=66, 31.11626pt x 26.0975pt>
-File: Imgs/RNotebook.png Graphic file (type png)
-<use Imgs/RNotebook.png>
-Package pdftex.def Info: Imgs/RNotebook.png  used on input line 244.
-(pdftex.def)             Requested size: 31.11664pt x 26.09782pt.
-<Imgs/RMarkdown.png, id=67, 26.0975pt x 23.08624pt>
-File: Imgs/RMarkdown.png Graphic file (type png)
-<use Imgs/RMarkdown.png>
-Package pdftex.def Info: Imgs/RMarkdown.png  used on input line 244.
-(pdftex.def)             Requested size: 26.09743pt x 23.08617pt.
-<Imgs/Shiny.png, id=68, 26.0975pt x 25.09375pt>
-File: Imgs/Shiny.png Graphic file (type png)
-<use Imgs/Shiny.png>
-Package pdftex.def Info: Imgs/Shiny.png  used on input line 244.
-(pdftex.def)             Requested size: 26.09901pt x 25.0952pt.
-<Imgs/TextFile.png, id=69, 29.10875pt x 26.0975pt>
-File: Imgs/TextFile.png Graphic file (type png)
-<use Imgs/TextFile.png>
-Package pdftex.def Info: Imgs/TextFile.png  used on input line 244.
-(pdftex.def)             Requested size: 29.10956pt x 26.09822pt.
-<Imgs/C++File.png, id=70, 27.10126pt x 24.09pt>
-File: Imgs/C++File.png Graphic file (type png)
-<use Imgs/C++File.png>
-Package pdftex.def Info: Imgs/C++File.png  used on input line 244.
-(pdftex.def)             Requested size: 27.10118pt x 24.08992pt.
-<Imgs/RSweave.png, id=71, 25.09375pt x 22.0825pt>
-File: Imgs/RSweave.png Graphic file (type png)
-<use Imgs/RSweave.png>
-Package pdftex.def Info: Imgs/RSweave.png  used on input line 244.
-(pdftex.def)             Requested size: 25.09406pt x 22.08276pt.
-<Imgs/RHTML.png, id=72, 26.0975pt x 26.0975pt>
-File: Imgs/RHTML.png Graphic file (type png)
-<use Imgs/RHTML.png>
-Package pdftex.def Info: Imgs/RHTML.png  used on input line 244.
-(pdftex.def)             Requested size: 26.09901pt x 26.09901pt.
-<Imgs/RPresentation.png, id=73, 27.10126pt x 27.10126pt>
-File: Imgs/RPresentation.png Graphic file (type png)
-<use Imgs/RPresentation.png>
-Package pdftex.def Info: Imgs/RPresentation.png  used on input line 244.
-(pdftex.def)             Requested size: 27.10242pt x 27.10242pt.
-<Imgs/RDocumentation.png, id=74, 29.10875pt x 25.09375pt>
-File: Imgs/RDocumentation.png Graphic file (type png)
-<use Imgs/RDocumentation.png>
-Package pdftex.def Info: Imgs/RDocumentation.png  used on input line 244.
-(pdftex.def)             Requested size: 29.10956pt x 25.09444pt.
-<Imgs/Easy.jpg, id=75, 236.885pt x 236.885pt>
-File: Imgs/Easy.jpg Graphic file (type jpg)
-<use Imgs/Easy.jpg>
-Package pdftex.def Info: Imgs/Easy.jpg  used on input line 244.
-(pdftex.def)             Requested size: 236.89163pt x 236.89163pt.
+ <./Imgs/dado.png>] [7
 
-Overfull \vbox (51.81993pt too high) detected at line 244
- []
+] [8
 
-[7
-
- <./Imgs/Disquete.png> <./Imgs/Carpeta.png> <./Imgs/RScript.png> <./Imgs/RNoteb
-ook.png> <./Imgs/RMarkdown.png> <./Imgs/Shiny.png> <./Imgs/TextFile.png> <./Img
-s/C++File.png> <./Imgs/RSweave.png> <./Imgs/RHTML.png> <./Imgs/RPresentation.pn
-g> <./Imgs/RDocumentation.png> <./Imgs/easy.jpg>]
-\openout4 = `Tema1.vrb'.
-
-(./Tema1.vrb
-<Imgs/help.png, id=96, 402.19826pt x 402.19826pt>
-File: Imgs/help.png Graphic file (type png)
-<use Imgs/help.png>
-Package pdftex.def Info: Imgs/help.png  used on input line 20.
-(pdftex.def)             Requested size: 269.1523pt x 269.1523pt.
-)
-Overfull \vbox (111.4792pt too high) detected at line 266
- []
-
-[8
-
- <./Imgs/help.png>]
-\openout4 = `Tema1.vrb'.
-
-(./Tema1.vrb) [9
+] [9
 
 ] [10
 
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
 ]
-\openout4 = `Tema1.vrb'.
+\openout4 = `Tema11.vrb'.
 
-(./Tema1.vrb
-
-Package longtable Warning: Column widths have changed
-(longtable)                in table 1 on input line 16.
-
-) [11
+(./Tema11.vrb
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+.
+(c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) [21
 
 ]
-\openout4 = `Tema1.vrb'.
+\openout4 = `Tema11.vrb'.
 
-(./Tema1.vrb
-! Undefined control sequence.
-\GenericError  ...                                
-                                                    #4  \errhelp \@err@     ...
-l.9 ...f{https://es.wikipedia.org/wiki/Número_π}
-                                                  {\(\pi\)}\tabularnewline 
+(./Tema11.vrb
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+24.
+(c:/Users/Hulka/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmtt.fd
+File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+]
+\openout4 = `Tema11.vrb'.
+
+(./Tema11.vrb) [27
+
+]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 537.
+
+[28
+
+] [29
+
+]
+<Tema11_files/figure-beamer/unnamed-chunk-1-1.pdf, id=226, 722.7pt x 505.89pt>
+File: Tema11_files/figure-beamer/unnamed-chunk-1-1.pdf Graphic file (type pdf)
+<use Tema11_files/figure-beamer/unnamed-chunk-1-1.pdf>
+Package pdftex.def Info: Tema11_files/figure-beamer/unnamed-chunk-1-1.pdf  used
+ on input line 565.
+(pdftex.def)             Requested size: 307.2923pt x 215.1046pt.
+[30
+
+ <./Tema11_files/figure-beamer/unnamed-chunk-1-1.pdf>]
+\openout4 = `Tema11.vrb'.
+
+(./Tema11.vrb) [31
+
+] [32
+
+] [33
+
+]
+<Tema11_files/figure-beamer/unnamed-chunk-2-1.pdf, id=258, 722.7pt x 505.89pt>
+File: Tema11_files/figure-beamer/unnamed-chunk-2-1.pdf Graphic file (type pdf)
+<use Tema11_files/figure-beamer/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: Tema11_files/figure-beamer/unnamed-chunk-2-1.pdf  used
+ on input line 634.
+(pdftex.def)             Requested size: 307.2923pt x 215.1046pt.
+[34
+
+ <./Tema11_files/figure-beamer/unnamed-chunk-2-1.pdf>]
+\openout4 = `Tema11.vrb'.
+
+(./Tema11.vrb) [35
+
+]
+! Ambiguous; you need another { and }.
+\choose ->\atopwithdelims ()
+                            
+l.671 \end{frame}
+                  
 Here is how much of TeX's memory you used:
- 22968 strings out of 481865
- 426066 string characters out of 5929310
- 687503 words of memory out of 5000000
- 38746 multiletter control sequences out of 15000+600000
- 572656 words of font info for 57 fonts, out of 8000000 for 9000
+ 22527 strings out of 481865
+ 419522 string characters out of 5929310
+ 680742 words of memory out of 5000000
+ 38252 multiletter control sequences out of 15000+600000
+ 573279 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 107i,11n,111p,430b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 107i,11n,111p,431b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
